@@ -1,4 +1,4 @@
-### <div align="center">Hello, I'm Jack. Welcome to my GitHub!</div>  
+## Hello, I'm Jack. Welcome to my GitHub!</div>  
   
 
 - 🙂 I’m an avid reader, sports fan, linguistics nerd, and swimmer  
