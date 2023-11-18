@@ -1,4 +1,4 @@
-## Hello, I'm Jack. Welcome to my GitHub!</div>  
+## Hi, I'm Jack. Welcome to my GitHub!</div>  
   
 
 - 🙂 I’m an avid reader, sports fan, linguistics nerd, and swimmer  
