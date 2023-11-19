@@ -4,7 +4,10 @@
 - 🙂 I’m an avid reader, sports fan, linguistics nerd, and swimmer  
   
 
-- 🌱 I’m currently learning Tailwind and React Native  
+- 🌱 I’m currently learning Tailwind and React Native
+
+
+- 📫 How to reach me: jonathankalfonso@gmail.com
   
 
 - ❓ Ask me about my experience as a Frontend student at the Turing School of Software & Design  
